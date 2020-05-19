@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cool-tetris/static/css/main.e75c5f2b.chunk.css",
+    "main.js": "/Cool-tetris/static/js/main.2029e277.chunk.js",
+    "main.js.map": "/Cool-tetris/static/js/main.2029e277.chunk.js.map",
+    "runtime-main.js": "/Cool-tetris/static/js/runtime-main.6ad665f8.js",
+    "runtime-main.js.map": "/Cool-tetris/static/js/runtime-main.6ad665f8.js.map",
+    "static/js/2.a5da235e.chunk.js": "/Cool-tetris/static/js/2.a5da235e.chunk.js",
+    "static/js/2.a5da235e.chunk.js.map": "/Cool-tetris/static/js/2.a5da235e.chunk.js.map",
+    "index.html": "/Cool-tetris/index.html",
+    "precache-manifest.c53a6dd901bdfd2026e58d327fe9ad00.js": "/Cool-tetris/precache-manifest.c53a6dd901bdfd2026e58d327fe9ad00.js",
+    "service-worker.js": "/Cool-tetris/service-worker.js",
+    "static/css/main.e75c5f2b.chunk.css.map": "/Cool-tetris/static/css/main.e75c5f2b.chunk.css.map",
+    "static/js/2.a5da235e.chunk.js.LICENSE.txt": "/Cool-tetris/static/js/2.a5da235e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Cool-tetris/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "/Cool-tetris/static/media/bg.2810fe6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ad665f8.js",
+    "static/js/2.a5da235e.chunk.js",
+    "static/css/main.e75c5f2b.chunk.css",
+    "static/js/main.2029e277.chunk.js"
+  ]
+}
