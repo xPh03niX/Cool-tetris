@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Cool-tetris/static/css/main.e75c5f2b.chunk.css",
-    "main.js": "/Cool-tetris/static/js/main.138b6e3c.chunk.js",
-    "main.js.map": "/Cool-tetris/static/js/main.138b6e3c.chunk.js.map",
+    "main.js": "/Cool-tetris/static/js/main.a1ec012f.chunk.js",
+    "main.js.map": "/Cool-tetris/static/js/main.a1ec012f.chunk.js.map",
     "runtime-main.js": "/Cool-tetris/static/js/runtime-main.6ad665f8.js",
     "runtime-main.js.map": "/Cool-tetris/static/js/runtime-main.6ad665f8.js.map",
     "static/js/2.a5da235e.chunk.js": "/Cool-tetris/static/js/2.a5da235e.chunk.js",
     "static/js/2.a5da235e.chunk.js.map": "/Cool-tetris/static/js/2.a5da235e.chunk.js.map",
     "index.html": "/Cool-tetris/index.html",
-    "precache-manifest.964237dd53751bd90ec2e56ea13888a3.js": "/Cool-tetris/precache-manifest.964237dd53751bd90ec2e56ea13888a3.js",
+    "precache-manifest.b8ddf8202df48dbd745301ef25dc060e.js": "/Cool-tetris/precache-manifest.b8ddf8202df48dbd745301ef25dc060e.js",
     "service-worker.js": "/Cool-tetris/service-worker.js",
     "static/css/main.e75c5f2b.chunk.css.map": "/Cool-tetris/static/css/main.e75c5f2b.chunk.css.map",
     "static/js/2.a5da235e.chunk.js.LICENSE.txt": "/Cool-tetris/static/js/2.a5da235e.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6ad665f8.js",
     "static/js/2.a5da235e.chunk.js",
     "static/css/main.e75c5f2b.chunk.css",
-    "static/js/main.138b6e3c.chunk.js"
+    "static/js/main.a1ec012f.chunk.js"
   ]
 }
