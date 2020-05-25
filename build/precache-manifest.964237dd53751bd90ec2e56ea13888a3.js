@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81d937e8d0674ea822104bb31622fe50",
+    "revision": "fd306f180665f91855d460a3526b9ad6",
     "url": "/Cool-tetris/index.html"
   },
   {
-    "revision": "970c5c534cf8d046908e",
+    "revision": "9b7a0a7e4741302ecdc8",
     "url": "/Cool-tetris/static/css/main.e75c5f2b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cool-tetris/static/js/2.a5da235e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "970c5c534cf8d046908e",
-    "url": "/Cool-tetris/static/js/main.2029e277.chunk.js"
+    "revision": "9b7a0a7e4741302ecdc8",
+    "url": "/Cool-tetris/static/js/main.138b6e3c.chunk.js"
   },
   {
     "revision": "cd9e9beee3390d3ae608",
